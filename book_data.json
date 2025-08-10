@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Self-help"
+  },
+  {
+    "id": 2,
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "category": "Self-help"
+  },
+  {
+    "id": 3,
+    "title": "Make Time",
+    "author": "Jake Knapp & John Zeratsky",
+    "category": "Self-help"
+  },
+  {
+    "id": 4,
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "category": "Self-help"
+  },
+  {
+    "id": 5,
+    "title": "The 5 AM Club",
+    "author": "Robin Sharma",
+    "category": "Self-help"
+  },
+  {
+    "id": 6,
+    "title": "12 Rules for Life",
+    "author": "Jordan B. Peterson",
+    "category": "Self-help"
+  },
+  {
+    "id": 7,
+    "title": "Everything is F*cked",
+    "author": "Mark Manson",
+    "category": "Self-help"
+  },
+  {
+    "id": 8,
+    "title": "The 12 Week Year",
+    "author": "Brian Moran",
+    "category": "Self-help"
+  },
+  {
+    "id": 9,
+    "title": "Can't Hurt Me",
+    "author": "David Goggins",
+    "category": "Self-help"
+  },
+  {
+    "id": 10,
+    "title": "Essentialism",
+    "author": "Greg McKeown",
+    "category": "Self-help"
+  },
+  {
+    "id": 11,
+    "title": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "category": "Business"
+  },
+  {
+    "id": 12,
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "category": "Business"
+  },
+  {
+    "id": 13,
+    "title": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "category": "Business"
+  },
+  {
+    "id": 14,
+    "title": "The Millionaire Fastlane",
+    "author": "MJ DeMarco",
+    "category": "Business"
+  },
+  {
+    "id": 15,
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "category": "Business"
+  },
+  {
+    "id": 16,
+    "title": "Tools of Titans",
+    "author": "Tim Ferriss",
+    "category": "Business"
+  },
+  {
+    "id": 17,
+    "title": "The Almanack of Naval Ravikant",
+    "author": "Eric Jorgenson",
+    "category": "Business"
+  },
+  {
+    "id": 18,
+    "title": "4-Hour Work Week",
+    "author": "Tim Ferriss",
+    "category": "Business"
+  },
+  {
+    "id": 19,
+    "title": "The Innovator’s Dilemma",
+    "author": "Clayton Christensen",
+    "category": "Business"
+  },
+  {
+    "id": 20,
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "category": "Psychology & Philosophy"
+  },
+  {
+    "id": 21,
+    "title": "The Paradox of Choice",
+    "author": "Barry Schwartz",
+    "category": "Psychology & Philosophy"
+  },
+  {
+    "id": 22,
+    "title": "Influence: The Psychology of Persuasion",
+    "author": "Robert Cialdini",
+    "category": "Psychology & Philosophy"
+  },
+  {
+    "id": 23,
+    "title": "The Happiness Equation",
+    "author": "Neil Pasricha",
+    "category": "Psychology & Philosophy"
+  },
+  {
+    "id": 24,
+    "title": "Dopamine Nation",
+    "author": "Anna Lembke",
+    "category": "Psychology & Philosophy"
+  },
+  {
+    "id": 25,
+    "title": "The Winner Effect",
+    "author": "Ian H. Robertson",
+    "category": "Psychology & Philosophy"
+  },
+  {
+    "id": 26,
+    "title": "Misbehaving",
+    "author": "Richard H. Thaler",
+    "category": "Psychology & Philosophy"
+  },
+  {
+    "id": 27,
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "category": "Psychology & Philosophy"
+  },
+  {
+    "id": 28,
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "category": "Psychology & Philosophy"
+  },
+  {
+    "id": 29,
+    "title": "Storyworthy",
+    "author": "Matthew Dicks",
+    "category": "Storytelling & Writing"
+  },
+  {
+    "id": 30,
+    "title": "Made to Stick",
+    "author": "Chip Heath & Dan Heath",
+    "category": "Storytelling & Writing"
+  },
+  {
+    "id": 31,
+    "title": "Steal Like an Artist",
+    "author": "Austin Kleon",
+    "category": "Storytelling & Writing"
+  },
+  {
+    "id": 32,
+    "title": "The Art and Business of Writing",
+    "author": "Chris Jones",
+    "category": "Storytelling & Writing"
+  },
+  {
+    "id": 33,
+    "title": "Life 3.0",
+    "author": "Max Tegmark",
+    "category": "AI & Tech"
+  },
+  {
+    "id": 34,
+    "title": "You Look Like a Thing and I Love You",
+    "author": "Janelle Shane",
+    "category": "AI & Tech"
+  },
+  {
+    "id": 35,
+    "title": "Architects of Intelligence",
+    "author": "Martin Ford",
+    "category": "AI & Tech"
+  },
+  {
+    "id": 36,
+    "title": "The Master Switch",
+    "author": "Tim Wu",
+    "category": "AI & Tech"
+  },
+  {
+    "id": 37,
+    "title": "Hooked",
+    "author": "Nir Eyal",
+    "category": "AI & Tech"
+  },
+  {
+    "id": 38,
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "category": "AI & Tech"
+  },
+  {
+    "id": 39,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Fiction"
+  },
+  {
+    "id": 40,
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "category": "Fiction"
+  },
+  {
+    "id": 41,
+    "title": "Flowers for Algernon",
+    "author": "Daniel Keyes",
+    "category": "Fiction"
+  },
+  {
+    "id": 42,
+    "title": "We Are the Ants",
+    "author": "Shaun David Hutchinson",
+    "category": "Fiction"
+  },
+  {
+    "id": 43,
+    "title": "Anxious People",
+    "author": "Fredrik Backman",
+    "category": "Fiction"
+  },
+  {
+    "id": 44,
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "category": "Fiction"
+  }
+]
